@@ -1,4 +1,4 @@
-const BACKEND_URL = "http://localhost:5000";
+const BACKEND_URL = "https://sketch-to-3d-0dgb.onrender.com";
 
 const $ = id => document.getElementById(id);
 const pad = $("pad"), ctx = pad.getContext("2d");
