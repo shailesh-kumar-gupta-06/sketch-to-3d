@@ -3,7 +3,6 @@
 Draw a rough sketch (or upload one), optionally add a text prompt, and get a textured 3D model as `.glb` with an interactive preview and download. Built for the 24-hour *Sketch2Shape AI* hackathon.
 
 - **Live app:** ---
-- **Backend:** https://sketch-to-3d-0dgb.onrender.com (`/health` for a status check)
 
 > The backend runs on a free Render instance that sleeps when idle. Open the app a minute before use. GPU work uses free Hugging Face Spaces with a shared daily quota (see Limitations).
 
