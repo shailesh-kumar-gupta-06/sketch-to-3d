@@ -32,7 +32,7 @@ Hugging Face Spaces (free GPU)
 5. **Reconstruct:** TRELLIS removes the background and builds a textured mesh. Spaces are tried in order.
 6. **Validate:** trimesh checks for non-empty geometry, real volume (not a flat plane) and texture. Stats and per-stage timings are returned by `/status/<id>`.
 
-## Models and third-party services (disclosure)
+## Models and third-party services
 | Component | Used for | Runs on | Licence (verify before commercial use) |
 |---|---|---|---|
 | Stable Diffusion 1.5 + ControlNet scribble, Space `hysts/ControlNet` | sketch-guided image | HF Space | CreativeML OpenRAIL-M / Apache-2.0 |
