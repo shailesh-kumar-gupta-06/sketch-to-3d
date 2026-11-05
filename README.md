@@ -84,9 +84,6 @@ Open http://localhost:8000. Set `BACKEND_URL` at the top of `app.js` to `http://
 | `<fill in>` | | | |
 | Cold start (first request after idle) | | | `<fill in>` |
 
-## Sample results
-See `samples/` for input sketches, generated `.glb` files and viewer screenshots.
-
 ## Limitations
 - Free Spaces can queue, sleep, change API, or run out of the daily ZeroGPU quota; a run may fail with a quota message until it resets.
 - Without ControlNet the result follows the outline but has less style detail.
