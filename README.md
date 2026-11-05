@@ -105,4 +105,6 @@ samples/                            (inputs, .glb outputs, screenshots)
 ```
 
 ## Team
-`<OFF-GRID>` · Licence: `<add a LICENSE file>`
+`<OFF-GRID>`
+Shailesh kumar gupta
+Divya
