@@ -105,6 +105,7 @@ samples/                            (inputs, .glb outputs, screenshots)
 ```
 
 ## Team
+``` 
 `<OFF-GRID>`
 Shailesh kumar gupta
-Divya
+Divya```
