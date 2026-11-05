@@ -4,7 +4,7 @@ Draw a rough sketch (or upload one), optionally add a text prompt, and get a tex
 
 - **Live app:** ---
 
-> The backend runs on a free Render instance that sleeps when idle. Open the app a minute before use. GPU work uses free Hugging Face Spaces with a shared daily quota (see Limitations).
+> The backend runs on a free Render instance that sleeps when idle. Open the app a minute before use. GPU work uses free Hugging Face Spaces with a shared daily quota (see Limitations). 
 
 ## Features
 - In-app canvas (brush, eraser, size, reset) and image upload (PNG/JPG/WebP)
